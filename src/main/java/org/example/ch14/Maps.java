@@ -59,7 +59,7 @@ public class Maps {
         data.put(new MapsData<Integer,String>(2,"two"),"lecture 2");
         data.put(new MapsData<Integer,String>(3,"three"),"lecture 3");
         data.put(new MapsData<Integer,String>(4,"four"),"lecture 4");
-        System.out
+
     }
 }
 
